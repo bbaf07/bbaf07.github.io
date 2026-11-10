@@ -1,0 +1,17 @@
+# Alane Bryan BOYEKON BAFALAK
+
+> Étudiant en Master 1 Manager de la Cybersécurité à l'ECE Paris, après un Bachelor Développeur Data et IA, je développe des applications full-stack avec FastAPI, Laravel, React et PostgreSQL. J'y intègre des modèles d'IA et je protège l'accès aux données. Je cherche un stage, une alternance, un emploi ou des missions freelance.
+
+## Projets
+- C'est pour toi ? (https://github.com/bbaf07/C-est_pour_toi-): Portail d'objets perdus et trouvés.
+- Visalia: Plateforme d'une agence qui accompagne des étudiants camerounais vers les études en France.
+- Immo Bell (https://github.com/bbaf07/Immo-Bell): Plateforme de gestion locative et de services pour Douala.
+- Festival du Rire de Deauville (https://github.com/bbaf07/Projet-festival): Plateforme d'un festival : programme jour par jour, artistes, « sur scène maintenant » et un espace d'administration pour programmer, déplacer ou annuler un spectacle.
+- My Wise Money (https://github.com/bbaf07/Budget-AI): Application de budget qui analyse les dépenses et propose des recommandations d'épargne.
+- CyberTron: Logiciel de cybersécurité piloté par un agent IA, pour s'entraîner à la défense en laboratoire.
+- Orizon: Chatbot d'orientation pour l'e-learning, basé sur Mistral AI.
+- Orus Eye: Globe 3D interactif de données géospatiales : séismes récents, événements naturels et limites des plaques tectoniques.
+
+## Contact
+- bryan.bafalak13@gmail.com
+- https://github.com/bbaf07
